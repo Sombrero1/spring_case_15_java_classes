@@ -1,7 +1,6 @@
 package spring.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
-import spring.HelloController;
 
 public class MyDispatherServletInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
     @Override
